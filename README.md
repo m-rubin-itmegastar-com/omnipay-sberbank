@@ -1,3 +1,11 @@
+## This fork was made to be sure package not be changed in future in inpredictable way
+
+Main repos: 
+https://github.com/astronom/omnipay-sberbank
+https://github.com/AndrewNovikof/omnipay-sberbank
+
+Many thanks to the authors of this project!
+
 # Sberbank acquiring for PHP 
 
 [![Build Status](https://travis-ci.org/AndrewNovikof/omnipay-sberbank.svg?branch=master)](https://travis-ci.org/AndrewNovikof/omnipay-sberbank)
