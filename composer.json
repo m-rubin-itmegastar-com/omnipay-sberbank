@@ -26,7 +26,7 @@
   },
   "require-dev": {
     "omnipay/tests": "^3",
-    "phpunit/phpunit": "^5.7|^6",
+    "phpunit/phpunit": "v6.5.14",
     "squizlabs/php_codesniffer": "3.*"
   },
   "autoload": {
