@@ -1,5 +1,5 @@
 {
-  "name": "andrewnovikof/omnipay-sberbank",
+  "name": "mihanentalpo/omnipay-sberbank",
   "description": "Omnipay driver for Sberbank",
   "type": "library",
   "license": "MIT",
@@ -7,6 +7,10 @@
     {
       "name": "AndrewNovikof",
       "email": "andrewnovikofff@gmail.com"
+    },
+    {
+      "name": "MihanEntalpo",
+      "email": "mihanentalpo@yandex.ru"
     }
   ],
   "keywords": [
@@ -17,7 +21,7 @@
     "payment"
   ],
   "require": {
-    "php": "^7.1",
+    "php": "^7.0",
     "omnipay/common": "v3.0.2"
   },
   "require-dev": {
