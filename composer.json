@@ -1,5 +1,5 @@
 {
-  "name": "mihanentalpo/omnipay-sberbank",
+  "name": "m-rubin-itmegastar-com/omnipay-sberbank",
   "description": "Omnipay driver for Sberbank",
   "type": "library",
   "license": "MIT",
@@ -10,7 +10,7 @@
     },
     {
       "name": "MihanEntalpo",
-      "email": "mihanentalpo@yandex.ru"
+      "email": "m.rubin@itmegastar.com"
     }
   ],
   "keywords": [
