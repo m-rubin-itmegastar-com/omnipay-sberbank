@@ -26,7 +26,7 @@ This package supports PHP 7.1 and higher
 
 ```
 // This assumes that you have composer installed globally
-composer require andrewnovikof/omnipay-sberbank
+composer require m-rubin-itmegastar-com/omnipay-sberbank
 ```
 
 ## Solving problems with minimal stability
